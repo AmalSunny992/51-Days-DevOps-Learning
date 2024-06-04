@@ -5,6 +5,6 @@
 3. [Linux Malayalam](https://www.youtube.com/playlist?list=PLmFap_OoBJh6ZIbXANxdBYAlKCCAngX5o)
 4. [Networking Tutorial for Beginners in Malayalam](https://www.youtube.com/playlist?list=PLR2UNjW_Pkm8vNSxxWDV9dhE386Iq7deh)
 5. [The Ultimate CICD Corporate DevOps Pipeline Project | Real-Time DevOps Project](https://www.youtube.com/watch?v=NnkUGzaqqOc&t=371s)
-6. 
+6. [Docker (Malayalam)](https://www.youtube.com/playlist?list=PLSskzp_kao6lLbticWssNmurx5d-dgKEu)
    
 
