@@ -8,5 +8,6 @@
 6. [The Ultimate CICD Corporate DevOps Pipeline Project | Real-Time DevOps Project](https://www.youtube.com/watch?v=NnkUGzaqqOc&t=371s)
 7. [Docker (Malayalam)](https://www.youtube.com/playlist?list=PLSskzp_kao6lLbticWssNmurx5d-dgKEu)
 8. [AWS - DevOps](https://www.youtube.com/watch?v=O3tMaYLDIv4)
+9. [SDLC](https://www.youtube.com/watch?v=Dl-BdxNRUqs)
    
 
