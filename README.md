@@ -1,4 +1,4 @@
-# Learn DevOps (incomplete...In progress)
+# DevOps-Challenges (incomplete...In progress)
 
 Welcome to the 49 Days DevOps Challenge repository! 
 This repository is designed to help learn and practice DevOps concepts through hands-on exercises, examples, and tutorials. 
@@ -100,7 +100,6 @@ This repository is designed to help learn and practice DevOps concepts through h
 - Setting up AWS Account
 
 ### Day 23: EC2 and IAM Basics
-
 - Launching and Configuring EC2 Instances
 - Introduction to IAM (Identity and Access Management)
 
