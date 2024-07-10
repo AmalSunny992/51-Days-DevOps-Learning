@@ -130,7 +130,7 @@ This repository is designed to help learn and practice DevOps concepts through h
 - What is CI/CD?
 - Benefits of CI/CD
 
-# Day 30: Setting up Jenkins
+### Day 30: Setting up Jenkins
 - Installing Jenkins
 - Configuring Jenkins
 
