@@ -16,7 +16,7 @@ This repository is designed to help learn and practice DevOps concepts through h
 - [Scrum Framework](./Agile%20and%20Scrum%20Fundamentals.md#scrum-framework)
 - [Roles in Scrum (Scrum Master, Product Owner, Development Team)](./Agile%20and%20Scrum%20Fundamentals.md#roles-in-scrum)
 
-### Day 3: [Version Control with Git](https://github.com/AmalSunny992/Git-And-GitHub)
+### Day 3: [Version Control with Git](https://github.com/AmalSunny992/Git-And-GitHub/blob/main/README.md)
 - Introduction to Git
 - Basic Git Commands
 - Branching and Merging
