@@ -48,41 +48,41 @@ This repository is designed to help learn and practice DevOps concepts through h
 - [Loops](https://github.com/AmalSunny992/python-learning/blob/main/README.md#loops)
 - [Hands-On Exercises](https://github.com/AmalSunny992/python-learning/tree/main/code_challenge)
 
-### Day 9: SQL Basics
-- Introduction to  SQL?
-- Basic SQL Commands
-- Advanced SQL Commands
-- Different types of DB
+### Day 9: [SQL Basics](https://github.com/AmalSunny992/Basic-SQL/blob/main/README.md)
+- [Introduction to  SQL](https://github.com/AmalSunny992/Basic-SQL/blob/main/SQL.md)
+- [Basic SQL Commands](https://github.com/AmalSunny992/Basic-SQL/blob/main/basic.md)
+- [Advanced SQL Commands](https://github.com/AmalSunny992/Basic-SQL/blob/main/advanced.md)
+- [Different types of DB](https://github.com/AmalSunny992/Basic-SQL/blob/main/different-databases.md)
 
-### Day 10: Introduction to Linux
-- Linux Distributions
-- Basic Linux Commands
-- File System Hierarchy
+### Day 10: [Introduction to Linux](https://github.com/AmalSunny992/Linux-Basics/blob/main/README.md)
+- [Linux Distributions](https://github.com/AmalSunny992/Linux-Basics/blob/main/unix-vs-linux.md)
+- [Basic Linux Commands](https://github.com/AmalSunny992/Linux-Basics/blob/main/linux-commands.md)
+- [File System Hierarchy](https://github.com/AmalSunny992/Linux-Basics/blob/main/Linux-FS-Hierarchy.md)
 
-### Day 11: Advanced Linux Commands
-- File Permissions
-- User and Group Management
-- Disk Management
+### Day 11: [Advanced Linux Commands](https://github.com/AmalSunny992/Linux-Basics/blob/main/README.md)
+- [File Permissions](https://github.com/AmalSunny992/Linux-Basics/blob/main/Advanced-Linux-Commands.md#file-permissions)
+- [User and Group Management](https://github.com/AmalSunny992/Linux-Basics/blob/main/Advanced-Linux-Commands.md#user-and-group-management)
+- [Disk Management](https://github.com/AmalSunny992/Linux-Basics/blob/main/Advanced-Linux-Commands.md#disk-management)
 
-### Day 12: Shell Scripting Basics
-- Writing Your First Shell Script
-- Variables and Data Types in Shell Scripting
+### Day 12: [Shell Scripting Basics](https://github.com/AmalSunny992/Bash-Scripts/blob/main/README.md)
+- [Writing Your First Shell Script](https://github.com/AmalSunny992/Bash-Scripts/blob/main/introduction.md)
+- [Variables and Data Types in Shell Scripting](https://github.com/AmalSunny992/Bash-Scripts/blob/main/introduction.md#variables-and-data-types-in-shell-scripting)
 
-### Day 13: Conditional Statements and Loops
-- If-Else
-- Statements
-- For, While Loops in Shell Scripting
+### Day 13: [Conditional Statements and Loops](https://github.com/AmalSunny992/Bash-Scripts/blob/main/README.md)
+- [If-Else](https://github.com/AmalSunny992/Bash-Scripts/blob/main/basic-bash-commands.md#bash-conditional-statements)
+- [String](https://github.com/AmalSunny992/Bash-Scripts/blob/main/basic-bash-commands.md#bash-string)
+- [For, While Loops in Shell Scripting](https://github.com/AmalSunny992/Bash-Scripts/blob/main/basic-bash-commands.md#bash-loops)
 
-### Day 14: Functions and Error Handling
-- Creating and Using Functions
-- Error Handling in Shell Scripts
+### Day 14: [Functions and Error Handling](https://github.com/AmalSunny992/Bash-Scripts/blob/main/README.md)
+- [Creating and Using Functions](https://github.com/AmalSunny992/Bash-Scripts/blob/main/basic-bash-commands.md#bash-function)
+- [Error Handling in Shell Scripts](https://github.com/AmalSunny992/Bash-Scripts/blob/main/basic-bash-commands.md#error-handling-in-shell-scripts)
 
-### Day 15: Automating Tasks with Cron Jobs
-- Introduction to Cron
-- Creating and Managing Cron Jobs
+### Day 15: [Automating Tasks with Cron Jobs](https://github.com/AmalSunny992/Bash-Scripts/blob/main/README.md)
+- [Introduction to Cron](https://github.com/AmalSunny992/Bash-Scripts/blob/main/cron-job.md#what-is-a-cron-job)
+- [Creating and Managing Cron Jobs](https://github.com/AmalSunny992/Bash-Scripts/blob/main/cron-job.md#understanding-the-crontab-syntax)
 
-### Day 16: Practice Project: Simple Automation Script
-- Automate a Repetitive Task Using Shell Script
+### Day 16: [Practice Project: Simple Automation Script](https://github.com/AmalSunny992/Bash-Scripts/blob/main/examples/examples.md)
+- [Automate a Repetitive Task Using Shell Script](https://github.com/AmalSunny992/Bash-Scripts/blob/main/examples/examples.md)
 
 ### Day 17: Introduction to Windows Server
 - Windows Server Basics
