@@ -84,93 +84,100 @@ This repository is designed to help learn and practice DevOps concepts through h
 ### Day 16: [Practice Project: Simple Automation Script](https://github.com/AmalSunny992/Bash-Scripts/blob/main/examples/examples.md)
 - [Automate a Repetitive Task Using Shell Script](https://github.com/AmalSunny992/Bash-Scripts/blob/main/examples/examples.md)
 
-### Day 17: Introduction to Windows Server
-- Windows Server Basics
-- Installing and Configuring Windows Server
+### Day 17: [Introduction to Windows Server](https://github.com/AmalSunny992/Windows-Basics/blob/main/README.md)
+- [Windows Server Basics](https://github.com/AmalSunny992/Windows-Basics/blob/main/Windows-Server.md)
+- [Installing and Configuring Windows Server](https://github.com/AmalSunny992/Windows-Basics/blob/main/Windows-Server.md#installing-and-configuring-windows-iis)
 
-### Day 18: PowerShell Basics
-- Introduction to PowerShell
-- Basic PowerShell Commands
+### Day 18: [PowerShell Basics](https://github.com/AmalSunny992/Windows-Basics/blob/main/README.md)
+- [Introduction to PowerShell](https://github.com/AmalSunny992/Windows-Basics/blob/main/cmd-vs-powershell.md)
+- [Basic PowerShell Commands](https://github.com/AmalSunny992/Windows-Basics/blob/main/powershell-commands.md)
 
-### Day 19: Scripting with PowerShell
-- Writing PowerShell Scripts
-- Variables and Data Types in PowerShell
+### Day 19: [Scripting with PowerShell](https://github.com/AmalSunny992/powershellscripts/blob/main/README.md)
+- [Writing PowerShell Scripts](https://github.com/AmalSunny992/powershellscripts/blob/main/intro.md)
+- [Variables and Data Types in PowerShell](https://github.com/AmalSunny992/powershellscripts/blob/main/intro.md#variables)
 
-### Day 20: Advanced PowerShell Scripting
-- Conditional Statements and Loops
-- Functions in PowerShell
+### Day 20: [Advanced PowerShell Scripting](https://github.com/AmalSunny992/powershellscripts/blob/main/README.md)
+- [Conditional Statements and Loops](https://github.com/AmalSunny992/powershellscripts/blob/main/Advanced-PowerShell-Scripting.md#conditional-statements-and-loops)
+- [Functions in PowerShell](https://github.com/AmalSunny992/powershellscripts/blob/main/Advanced-PowerShell-Scripting.md#functions-in-powershell)
 
-### Day 21: Managing Windows with PowerShell
-- Managing Files and Directories
-- Managing Processes and Services
+### Day 21: [Managing Windows with PowerShell](https://github.com/AmalSunny992/powershellscripts/blob/main/README.md)
+- [Managing Files and Directories](https://github.com/AmalSunny992/powershellscripts/blob/main/Managing-Windows-with-Powershell.md#managing-files-and-directories)
+- [Managing Processes and Services](https://github.com/AmalSunny992/powershellscripts/blob/main/Managing-Windows-with-Powershell.md#managing-processes-and-services)
 
-### Day 22: Using PowerShell for Automation
-- Automating Tasks with PowerShell Scripts
-- Scheduled Tasks in Windows
+### Day 22: [Using PowerShell for Automation](https://github.com/AmalSunny992/powershellscripts/blob/main/README.md)
+- [Automating Tasks with PowerShell Scripts](https://github.com/AmalSunny992/powershellscripts/blob/main/Using-PowerShell-For-Automation.md#automating-tasks-with-powershell-scripts)
+- [Scheduled Tasks in Windows](https://github.com/AmalSunny992/powershellscripts/blob/main/Using-PowerShell-For-Automation.md#scheduled-tasks-in-windows)
 
-### Day 23: Practice Project: Windows Automation Script
-- Create a Script to Automate a Task on Windows
+### Day 23: [Practice Project: Windows Automation Script](https://github.com/AmalSunny992/powershellscripts/blob/main/README.md)
+- [Create a Script to Automate a Task on Windows](https://github.com/AmalSunny992/powershellscripts/tree/main/Scripts)
 
-### Day 24: Introduction to AWS
-- Overview of AWS Services
-- Setting up AWS Account
+### Day 24: [Introduction to AWS](https://github.com/AmalSunny992/AWS_Basics/blob/main/README.md)
+- [Overview of AWS Services](https://github.com/AmalSunny992/AWS_Basics/blob/main/awsconcepts.md)
+- [Setting up AWS Account](https://github.com/AmalSunny992/AWS_Basics/blob/main/intro.md#setting-up-an-aws-account)
 
-### Day 25: EC2 and IAM Basics
-- Launching and Configuring EC2 Instances
-- Introduction to IAM (Identity and Access Management)
+### Day 25: [EC2 and IAM Basics](https://github.com/AmalSunny992/AWS_Basics/blob/main/README.md)
+- [Launching and Configuring EC2 Instances](https://github.com/AmalSunny992/AWS_Basics/blob/main/ec2.md)
+- [Introduction to IAM (Identity and Access Management)](https://github.com/AmalSunny992/AWS_Basics/blob/main/IAM.md)
 
-### Day 26: S3 and CloudFront
-- Introduction to S3
-- Creating and Managing S3 Buckets
-- Setting up CloudFront Distribution
+### Day 26: [S3 and CloudFront](https://github.com/AmalSunny992/AWS_Basics/blob/main/README.md)
+- [Introduction to S3](https://github.com/AmalSunny992/AWS_Basics/blob/main/S3-and-CloudFront.md#introduction-to-s3)
+- [Creating and Managing S3 Buckets](https://github.com/AmalSunny992/AWS_Basics/blob/main/S3-and-CloudFront.md#creating-and-managing-s3-buckets)
+- [Setting up CloudFront Distribution](https://github.com/AmalSunny992/AWS_Basics/blob/main/S3-and-CloudFront.md#creating-and-managing-s3-buckets)
 
-### Day 27: RDS and DynamoDB
-- Introduction to RDS
-- Setting up an RDS Instance
-- Basics of DynamoDB
+### Day 27: [RDS and DynamoDB](https://github.com/AmalSunny992/AWS_Basics/blob/main/README.md)
+- [Introduction to RDS](https://github.com/AmalSunny992/AWS_Basics/blob/main/rds-vs-dynamo-db.md#amazon-relational-database-service-rds)
+- [Setting up an RDS Instance](https://github.com/AmalSunny992/AWS_Basics/blob/main/rds-vs-dynamo-db.md#setting-up-an-rds-instance)
+- [Basics of DynamoDB](https://github.com/AmalSunny992/AWS_Basics/blob/main/rds-vs-dynamo-db.md#amazon-dynamodb)
 
-### Day 28: VPC and Networking in AWS
-- Introduction to VPC
-- Subnets, Route Tables, and Gateways
-- Security Groups and Network ACLs
+### Day 28: [VPC and Networking in AWS](https://github.com/AmalSunny992/AWS_Basics/blob/main/README.md)
+- [Introduction to VPC](https://github.com/AmalSunny992/AWS_Basics/blob/main/AWS-VPC-and-ACL.md#introduction-to-vpc)
+- [Subnets, Route Tables, and Gateways](https://github.com/AmalSunny992/AWS_Basics/blob/main/AWS-VPC-and-ACL.md#subnets-route-tables-and-gateways)
+- [Security Groups and Network ACLs](https://github.com/AmalSunny992/AWS_Basics/blob/main/AWS-VPC-and-ACL.md#security-groups-and-network-acls)
 
-### Day 29: AWS Lambda and Serverless Computing
-- Introduction to AWS Lambda
-- Creating and Deploying Lambda Functions
+### Day 29: [AWS Lambda and Serverless Computing](https://github.com/AmalSunny992/AWS_Basics/blob/main/README.md)
+- [Introduction to AWS Lambda](https://github.com/AmalSunny992/AWS_Basics/blob/main/Lamda-Serverless.md#aws-lambda-and-serverless-computing)
+- [Creating and Deploying Lambda Functions](https://github.com/AmalSunny992/AWS_Basics/blob/main/Lamda-Serverless.md#creating-and-deploying-lambda-functions)
 
-### Day 30: Practice Project: Deploy a Web Application on AWS
-- Deploy a Simple Web Application using EC2, S3, and RDS
+### Day 30: [Practice Projects: AWS Hands-On Projects](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/README.md)
+- [Setting up a WordPress site using LightSail and a Load Balancer](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/Handson-AmazonLightsail.md)
+- [Hosting a static website on S3 with CloudFront and a custom domain using Route 53](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/Handson-S3_Static_Website.md)
+- [Creating and using Amazon Simple Notification Service (SNS)](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/Handson-SNS.md)
+- [Increase volume of ec2 machine](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/Handson-Ec2-increase-volume.md)
+- [Auto Backup Files to S3 using Bash Script and Cron Job](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/Handson-Backup-Files-to-S3.md)
+- [Auto Backup Files to S3 using Lambda-EventBridge-CloudWatch](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/README.md#6-auto-backup-files-to-s3-using-lambda-eventbridge-cloudwatch)
+- [Docker-EBS-Persistent-Volume](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/Handson-Docker-EBS-Persistent-Volume.md)
 
-### Day 31: Introduction to CI/CD
-- What is CI/CD?
-- Benefits of CI/CD
+### Day 31: [Introduction to CI/CD](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/README.md)
+- [What is CI/CD?](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Intro-CI-CD.md#what-is-cicd)
+- [Benefits of CI/CD](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Intro-CI-CD.md#benefits-of-cicd)
 
-### Day 32: Setting up Jenkins
-- Installing Jenkins
-- Configuring Jenkins
+### Day 32: [Setting up Jenkins](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/README.md)
+- [Installing Jenkins](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Intro-Jenkins.md#what-is-jenkins)
+- [Configuring Jenkins](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Intro-Jenkins.md#configuring-jenkins)
 
-### Day 33: Jenkins Pipelines
-- Introduction to Jenkins Pipelines
-- Writing and Configuring Pipeline Jobs
+### Day 33: [Jenkins Pipelines](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/README.md)
+- [Introduction to Jenkins Pipelines](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Pipeline.md#introduction-to-jenkins-pipelines)
+- [Writing and Configuring Pipeline Jobs](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Pipeline.md#writing-and-configuring-pipeline-jobs)
 
-### Day 34: Integrating Jenkins with GitHub
-- Configuring Jenkins to Work with GitHub
-- Setting up Webhooks
+### Day 34: [Integrating Jenkins with GitHub](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/README.md)
+- [Configuring Jenkins to Work with GitHub](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Github-Jenkins-Integration.md#configuring-jenkins-to-work-with-github)
+- [Setting up Webhooks](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Github-Jenkins-Integration.md#create-a-webhook-in-github)
 
-### Day 35: Automated Testing in Jenkins
-- Setting up Automated Tests
-- Running Tests in Jenkins Pipelines
+### Day 35: [Automated Testing in Jenkins](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/README.md)
+- [Setting up Automated Tests](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Automation-with-Jenkins.md)
+- [Running Tests in Jenkins Pipelines](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Automation-with-Jenkins.md#running-tests-in-jenkins-pipelines)
 
-### Day 36: Deploying Applications with Jenkins
-- Deploying to Different Environments
-- Rollback Strategies
+### Day 36: [Deploying Applications with Jenkins](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/README.md)
+- [Deploying to Different Environments](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Deploying-with-Jenkins.md)
+- [Rollback Strategies](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Deploying-with-Jenkins.md#rollback-strategies)
 
 ### Day 37: Practice Project: CI/CD Pipeline
-- Create a CI/CD Pipeline to Deploy a Web Application
+- [Jenkins-Maven-Nexus-Tomcat-CI/CD Pipeline](https://github.com/AmalSunny992/Jenkins-Hands-On-1/blob/main/README.md)
+- [Jenkins-Maven-Nexus-AWS S3-ElasticBeanstalk-CI/CD Pipeline](https://github.com/AmalSunny992/Jenkins-Hands-On-2/blob/main/README.md)
 
-### Day 38: Introduction to Ansible
-- What is Ansible?
-- Ansible Architecture
+### Day 38: [Introduction to Ansible]()
+- [What is Ansible?]()
+- [Ansible Architecture]()
 
 ### Day 39: Ansible Basics
 - Writing Ansible Playbooks
