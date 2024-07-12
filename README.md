@@ -1,20 +1,20 @@
 
 # DevOps-Challenges (In progress)
 
-Welcome to the 51 Days DevOps Challenge repository! 
+Welcome to the 51 Days DevOps Learning Challenge repository! 
 This repository is designed to help learn and practice DevOps concepts through hands-on exercises, examples, and tutorials. 
 
 ## Table of Contents
 ### Day 1: Introduction to DevOps
-- What is DevOps?
-- DevOps Lifecycle
-- Benefits of DevOps
-- DevOps Tools Overview
+- [What is DevOps?](./Introduction%20to%20DevOps.md#what-is-devops)
+- [DevOps Lifecycle](./Introduction%20to%20DevOps.md#devops-lifecycle)
+- [Benefits of DevOps](./Introduction%20to%20DevOps.md#benefits-of-devops)
+- [DevOps Tools Overview](./Introduction%20to%20DevOps.md#devops-tools-overview)
 
 ### Day 2: Agile and Scrum Fundamentals
-- Agile Methodology
-- Scrum Framework
-- Roles in Scrum (Scrum Master, Product Owner, Development Team)
+- [Agile Methodology](./Agile%20and%20Scrum%20Fundamentals.md#agile-methodology)
+- [Scrum Framework](./Agile%20and%20Scrum%20Fundamentals.md#scrum-framework)
+- [Roles in Scrum (Scrum Master, Product Owner, Development Team)](./Agile%20and%20Scrum%20Fundamentals.md#roles-in-scrum)
 
 ### Day 3: Version Control with Git
 - Introduction to Git
