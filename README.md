@@ -5,47 +5,48 @@ Welcome to the 51 Days DevOps Learning Challenge repository!
 This repository is designed to help learn and practice DevOps concepts through hands-on exercises, examples, and tutorials. 
 
 ## Table of Contents
-### Day 1: Introduction to DevOps
+### Day 1: [Introduction to DevOps](./Introduction%20to%20DevOps.md)
 - [What is DevOps?](./Introduction%20to%20DevOps.md#what-is-devops)
 - [DevOps Lifecycle](./Introduction%20to%20DevOps.md#devops-lifecycle)
 - [Benefits of DevOps](./Introduction%20to%20DevOps.md#benefits-of-devops)
 - [DevOps Tools Overview](./Introduction%20to%20DevOps.md#devops-tools-overview)
 
-### Day 2: Agile and Scrum Fundamentals
+### Day 2: [Agile and Scrum Fundamentals](./Agile%20and%20Scrum%20Fundamentals.md)
 - [Agile Methodology](./Agile%20and%20Scrum%20Fundamentals.md#agile-methodology)
 - [Scrum Framework](./Agile%20and%20Scrum%20Fundamentals.md#scrum-framework)
 - [Roles in Scrum (Scrum Master, Product Owner, Development Team)](./Agile%20and%20Scrum%20Fundamentals.md#roles-in-scrum)
 
 ### Day 3: [Version Control with Git](https://github.com/AmalSunny992/Git-And-GitHub/blob/main/README.md)
-- Introduction to Git
-- Basic Git Commands
-- Branching and Merging
+- [Introduction to Git](https://github.com/AmalSunny992/Git-And-GitHub/blob/main/what-is-git.md)
+- [Basic Git Commands](https://github.com/AmalSunny992/Git-And-GitHub/blob/main/basic-git-commands.md)
+- [Hands On Exercises](https://github.com/AmalSunny992/Git-And-GitHub/blob/main/exercises/practice.md)
 
-### Day 4: Networking Basics
-- OSI Model
-- TCP/IP Model
-- IP Addressing and Subnetting
+### Day 4: [Networking Basics](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/README.md)
+- [OSI Model](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/osi-model.md)
+- [TCP/IP Model](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/tcp-ip.md)
+- [IP Addressing and Subnetting](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/subnetting.md)
 
-### Day 5: Networking Tools and Protocols
-- Common Networking Protocols (HTTP, HTTPS, FTP, SSH)
-- Using tools like ping, traceroute, netstat, and curl
+### Day 5: [Networking Tools and Protocols](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/README.md)
+- [Common Networking Protocols (HTTP, HTTPS, FTP, SSH)](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/http.md)
+- [Using tools like ping, traceroute, netstat, and curl](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/README.md)
 
-### Day 6: Introduction to DNS and Load Balancing
-- How DNS Works
-- Types of DNS Records
-- Load Balancing Concepts
+### Day 6: [Introduction to DNS and Load Balancing](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/README.md)
+- [How DNS Works](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/dns.md)
+- [Types of DNS Records](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/dns.md)
+- [Load Balancing Concepts](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/Load-Balancing.md)
 
-### Day 7: Firewalls and Security Groups
-- Basics of Firewalls
-- Security Groups in AWS
-- Network ACLs
+### Day 7: [Firewalls and Security Groups](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/README.md)
+- [Basics of Firewalls](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/Firewalls-and-Security-Groups.md#basics-of-firewalls)
+- [Security Groups in AWS](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/Firewalls-and-Security-Groups.md#security-groups-in-aws)
+- [Network ACLs](https://github.com/AmalSunny992/Networking-Basic-Concepts/blob/main/Firewalls-and-Security-Groups.md#network-acls-access-control-lists)
 
-### Day 8: Python Basics
-- Variables and Data Types
-- Basic Operators
-- String Manipulation, Lists, Tuples, Dictionaries, Sets
-- Conditionals
-- Loops
+### Day 8: [Python Basics](https://github.com/AmalSunny992/python-learning/blob/main/README.md)
+- [Variables and Data Types](https://github.com/AmalSunny992/python-learning/blob/main/README.md#variables-and-data-types)
+- [Basic Operators](https://github.com/AmalSunny992/python-learning/blob/main/README.md#basic-operators)
+- [String Manipulation, Lists, Tuples, Dictionaries, Sets](https://github.com/AmalSunny992/python-learning/blob/main/README.md#string-manipulation)
+- [Conditionals](https://github.com/AmalSunny992/python-learning/blob/main/README.md#conditionals)
+- [Loops](https://github.com/AmalSunny992/python-learning/blob/main/README.md#loops)
+- [Hands-On Exercises](https://github.com/AmalSunny992/python-learning/tree/main/code_challenge)
 
 ### Day 9: SQL Basics
 - Introduction to  SQL?
