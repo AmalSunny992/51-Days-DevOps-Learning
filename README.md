@@ -1,6 +1,7 @@
-# DevOps-Challenges (incomplete...In progress)
 
-Welcome to the 49 Days DevOps Challenge repository! 
+# DevOps-Challenges (In progress)
+
+Welcome to the 51 Days DevOps Challenge repository! 
 This repository is designed to help learn and practice DevOps concepts through hands-on exercises, examples, and tutorials. 
 
 ## Table of Contents
@@ -39,171 +40,185 @@ This repository is designed to help learn and practice DevOps concepts through h
 - Security Groups in AWS
 - Network ACLs
 
-### Day 8: Introduction to Linux
+### Day 8: Python Basics
+- Variables and Data Types
+- Basic Operators
+- String Manipulation, Lists, Tuples, Dictionaries, Sets
+- Conditionals
+- Loops
+
+### Day 9: SQL Basics
+- Introduction to  SQL?
+- Basic SQL Commands
+- Advanced SQL Commands
+- Different types of DB
+
+### Day 10: Introduction to Linux
 - Linux Distributions
 - Basic Linux Commands
 - File System Hierarchy
 
-### Day 9: Advanced Linux Commands
+### Day 11: Advanced Linux Commands
 - File Permissions
 - User and Group Management
 - Disk Management
 
-### Day 10: Shell Scripting Basics
+### Day 12: Shell Scripting Basics
 - Writing Your First Shell Script
 - Variables and Data Types in Shell Scripting
 
-### Day 11: Conditional Statements and Loops
-- If-Else Statements
+### Day 13: Conditional Statements and Loops
+- If-Else
+- Statements
 - For, While Loops in Shell Scripting
 
-### Day 12: Functions and Error Handling
+### Day 14: Functions and Error Handling
 - Creating and Using Functions
 - Error Handling in Shell Scripts
 
-### Day 13: Automating Tasks with Cron Jobs
+### Day 15: Automating Tasks with Cron Jobs
 - Introduction to Cron
 - Creating and Managing Cron Jobs
 
-### Day 14: Practice Project: Simple Automation Script
+### Day 16: Practice Project: Simple Automation Script
 - Automate a Repetitive Task Using Shell Script
 
-### Day 15: Introduction to Windows Server
+### Day 17: Introduction to Windows Server
 - Windows Server Basics
 - Installing and Configuring Windows Server
 
-### Day 16: PowerShell Basics
+### Day 18: PowerShell Basics
 - Introduction to PowerShell
 - Basic PowerShell Commands
 
-### Day 17: Scripting with PowerShell
+### Day 19: Scripting with PowerShell
 - Writing PowerShell Scripts
 - Variables and Data Types in PowerShell
 
-### Day 18: Advanced PowerShell Scripting
+### Day 20: Advanced PowerShell Scripting
 - Conditional Statements and Loops
 - Functions in PowerShell
 
-### Day 19: Managing Windows with PowerShell
+### Day 21: Managing Windows with PowerShell
 - Managing Files and Directories
 - Managing Processes and Services
 
-### Day 20: Using PowerShell for Automation
+### Day 22: Using PowerShell for Automation
 - Automating Tasks with PowerShell Scripts
 - Scheduled Tasks in Windows
 
-### Day 21: Practice Project: Windows Automation Script
+### Day 23: Practice Project: Windows Automation Script
 - Create a Script to Automate a Task on Windows
 
-### Day 22: Introduction to AWS
+### Day 24: Introduction to AWS
 - Overview of AWS Services
 - Setting up AWS Account
 
-### Day 23: EC2 and IAM Basics
+### Day 25: EC2 and IAM Basics
 - Launching and Configuring EC2 Instances
 - Introduction to IAM (Identity and Access Management)
 
-### Day 24: S3 and CloudFront
+### Day 26: S3 and CloudFront
 - Introduction to S3
 - Creating and Managing S3 Buckets
 - Setting up CloudFront Distribution
 
-### Day 25: RDS and DynamoDB
+### Day 27: RDS and DynamoDB
 - Introduction to RDS
 - Setting up an RDS Instance
 - Basics of DynamoDB
 
-### Day 26: VPC and Networking in AWS
+### Day 28: VPC and Networking in AWS
 - Introduction to VPC
 - Subnets, Route Tables, and Gateways
 - Security Groups and Network ACLs
 
-### Day 27: AWS Lambda and Serverless Computing
+### Day 29: AWS Lambda and Serverless Computing
 - Introduction to AWS Lambda
 - Creating and Deploying Lambda Functions
 
-### Day 28: Practice Project: Deploy a Web Application on AWS
+### Day 30: Practice Project: Deploy a Web Application on AWS
 - Deploy a Simple Web Application using EC2, S3, and RDS
 
-### Day 29: Introduction to CI/CD
+### Day 31: Introduction to CI/CD
 - What is CI/CD?
 - Benefits of CI/CD
 
-### Day 30: Setting up Jenkins
+### Day 32: Setting up Jenkins
 - Installing Jenkins
 - Configuring Jenkins
 
-### Day 31: Jenkins Pipelines
+### Day 33: Jenkins Pipelines
 - Introduction to Jenkins Pipelines
 - Writing and Configuring Pipeline Jobs
 
-### Day 32: Integrating Jenkins with GitHub
+### Day 34: Integrating Jenkins with GitHub
 - Configuring Jenkins to Work with GitHub
 - Setting up Webhooks
 
-### Day 33: Automated Testing in Jenkins
+### Day 35: Automated Testing in Jenkins
 - Setting up Automated Tests
 - Running Tests in Jenkins Pipelines
 
-### Day 34: Deploying Applications with Jenkins
+### Day 36: Deploying Applications with Jenkins
 - Deploying to Different Environments
 - Rollback Strategies
 
-### Day 35: Practice Project: CI/CD Pipeline
+### Day 37: Practice Project: CI/CD Pipeline
 - Create a CI/CD Pipeline to Deploy a Web Application
 
-### Day 36: Introduction to Ansible
+### Day 38: Introduction to Ansible
 - What is Ansible?
 - Ansible Architecture
 
-### Day 37: Ansible Basics
+### Day 39: Ansible Basics
 - Writing Ansible Playbooks
 - Managing Ansible Inventory
 
-### Day 38: Advanced Ansible Concepts
+### Day 40: Advanced Ansible Concepts
 - Ansible Roles
 - Ansible Galaxy
 
-### Day 39: Introduction to Terraform
+### Day 41: Introduction to Terraform
 - What is Terraform?
 - Terraform Architecture
 
-### Day 40: Writing Terraform Configurations
+### Day 42: Writing Terraform Configurations
 - Basic Terraform Commands
 - Creating and Managing Resources
 
-### Day 41: Advanced Terraform Concepts
+### Day 43: Advanced Terraform Concepts
 - Modules in Terraform
 - Managing Terraform State
 
-### Day 42: Practice Project: Deploy Infrastructure with Ansible and Terraform
+### Day 44: Practice Project: Deploy Infrastructure with Ansible and Terraform
 - Use Ansible and Terraform to Deploy a Web Application
 
-### Day 43: Introduction to Docker
+### Day 45: Introduction to Docker
 - What is Docker?
 - Installing Docker
 
-### Day 44: Docker Basics
+### Day 46: Docker Basics
 - Docker Images and Containers
 - Docker Commands
   
-### Day 45: Docker Compose
+### Day 47: Docker Compose
 - Writing Docker Compose Files
 - Managing Multi-Container Applications
 
-### Day 46: Introduction to Kubernetes
+### Day 48: Introduction to Kubernetes
 - What is Kubernetes?
 - Kubernetes Architecture
 
-### Day 47: Kubernetes Basics
+### Day 49: Kubernetes Basics
 - Setting up a Kubernetes Cluster
 - Deploying Applications on Kubernetes
 
-### Day 48: Advanced Kubernetes Concepts
+### Day 50: Advanced Kubernetes Concepts
 - Kubernetes Services and Ingress
 - ConfigMaps and Secrets
 
-### Day 49: Practice Project: Deploy a Containerized Application on Kubernetes
+### Day 51: Practice Project: Deploy a Containerized Application on Kubernetes
 - Use Docker and Kubernetes to Deploy a Scalable Application
 
 ## License
