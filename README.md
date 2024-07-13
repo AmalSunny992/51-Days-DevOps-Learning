@@ -175,59 +175,59 @@ This repository is designed to help learn and practice DevOps concepts through h
 - [Jenkins-Maven-Nexus-Tomcat-CI/CD Pipeline](https://github.com/AmalSunny992/Jenkins-Hands-On-1/blob/main/README.md)
 - [Jenkins-Maven-Nexus-AWS S3-ElasticBeanstalk-CI/CD Pipeline](https://github.com/AmalSunny992/Jenkins-Hands-On-2/blob/main/README.md)
 
-### Day 38: [Introduction to Ansible]()
-- [What is Ansible?]()
-- [Ansible Architecture]()
+### Day 38: [Introduction to Ansible](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/README.md)
+- [What is Ansible?](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/intro-Ansible.md)
+- [Ansible Architecture](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/intro-Ansible.md#ansible-architecture)
 
-### Day 39: Ansible Basics
-- Writing Ansible Playbooks
-- Managing Ansible Inventory
+### Day 39: [Ansible Basics](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/README.md)
+- [Writing Ansible Playbooks](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Basics-Ansible.md#writing-ansible-playbooks)
+- [Managing Ansible Inventory](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Basics-Ansible.md#managing-ansible-inventory)
 
-### Day 40: Advanced Ansible Concepts
-- Ansible Roles
-- Ansible Galaxy
+### Day 40: [Advanced Ansible Concepts](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/README.md)
+- [Ansible Roles](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Ansible-Concepts.md#ansible-roles)
+- [Ansible Galaxy](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Ansible-Concepts.md#ansible-galaxy)
 
-### Day 41: Introduction to Terraform
-- What is Terraform?
-- Terraform Architecture
+### Day 41: [Introduction to Terraform](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/README.md)
+- [What is Terraform?](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/intro-Terraform.md)
+- [Terraform Architecture](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/intro-Terraform.md#terraform-architecture)
 
-### Day 42: Writing Terraform Configurations
-- Basic Terraform Commands
-- Creating and Managing Resources
+### Day 42: [Writing Terraform Configurations](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/README.md)
+- [Basic Terraform Commands](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Basics-Terraform.md)
+- [Creating and Managing Resources](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Basics-Terraform.md#creating-and-managing-resources)
 
-### Day 43: Advanced Terraform Concepts
-- Modules in Terraform
-- Managing Terraform State
+### Day 43: [Advanced Terraform Concepts](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/README.md)
+- [Modules in Terraform](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Advanced-Terraform.md)
+- [Managing Terraform State](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Advanced-Terraform.md#managing-terraform-state)
 
-### Day 44: Practice Project: Deploy Infrastructure with Ansible and Terraform
-- Use Ansible and Terraform to Deploy a Web Application
+### Day 44: [Practice Project: Deploy Infrastructure with Ansible and Terraform]
+- [Use Ansible and Terraform to Deploy a Web Application]
 
-### Day 45: Introduction to Docker
-- What is Docker?
-- Installing Docker
+### Day 45: [Introduction to Docker](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/README.md)
+- [What is Docker?](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Docker-Intro.md)
+- [Installing Docker](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Docker-Intro.md#installing-docker)
 
-### Day 46: Docker Basics
-- Docker Images and Containers
-- Docker Commands
+### Day 46: [Docker Basics](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/README.md)
+- [Docker Images and Containers](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Docker-Basics.md)
+- [Docker Commands](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Docker-Basics.md#docker-commands)
   
-### Day 47: Docker Compose
-- Writing Docker Compose Files
-- Managing Multi-Container Applications
+### Day 47: [Docker Compose](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/README.md)
+- [Writing Docker Compose Files](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Docker-Compose.md)
+- [Managing Multi-Container Applications](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Docker-Compose.md#managing-multi-container-applications)
 
-### Day 48: Introduction to Kubernetes
-- What is Kubernetes?
-- Kubernetes Architecture
+### Day 48: [Introduction to Kubernetes](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/README.md)
+- [What is Kubernetes?](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Kubernetes-Intro.md)
+- [Kubernetes Architecture](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Kubernetes-Intro.md#kubernetes-architecture)
 
-### Day 49: Kubernetes Basics
-- Setting up a Kubernetes Cluster
-- Deploying Applications on Kubernetes
+### Day 49: [Kubernetes Basics](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/README.md)
+- [Setting up a Kubernetes Cluster](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Kubernetes-Basic.md)
+- [Deploying Applications on Kubernetes](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Kubernetes-Basic.md#deploying-applications-on-kubernetes)
 
-### Day 50: Advanced Kubernetes Concepts
-- Kubernetes Services and Ingress
-- ConfigMaps and Secrets
+### Day 50: [Advanced Kubernetes Concepts](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/README.md)
+- [Kubernetes Services and Ingress](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Kubernetes-Advanced.md)
+- [ConfigMaps and Secrets](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Kubernetes-Advanced.md#configmaps-and-secrets)
 
-### Day 51: Practice Project: Deploy a Containerized Application on Kubernetes
-- Use Docker and Kubernetes to Deploy a Scalable Application
+### Day 51: [Practice Project: Deploy a Containerized Application on Kubernetes]
+- [Use Docker and Kubernetes to Deploy a Scalable Application]
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
