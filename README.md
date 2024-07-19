@@ -81,7 +81,7 @@ This repository is designed to help learn and practice DevOps concepts through h
 - [Introduction to Cron](https://github.com/AmalSunny992/Bash-Scripts/blob/main/cron-job.md#what-is-a-cron-job)
 - [Creating and Managing Cron Jobs](https://github.com/AmalSunny992/Bash-Scripts/blob/main/cron-job.md#understanding-the-crontab-syntax)
 
-### Day 16: [Practice Project: Simple Automation Script](https://github.com/AmalSunny992/Bash-Scripts/blob/main/examples/examples.md)
+### Day 16: [Hands On Projects: Simple Automation Script](https://github.com/AmalSunny992/Bash-Scripts/blob/main/examples/examples.md)
 - [Automate a Repetitive Task Using Shell Script](https://github.com/AmalSunny992/Bash-Scripts/blob/main/examples/examples.md)
 
 ### Day 17: [Introduction to Windows Server](https://github.com/AmalSunny992/Windows-Basics/blob/main/README.md)
@@ -108,7 +108,7 @@ This repository is designed to help learn and practice DevOps concepts through h
 - [Automating Tasks with PowerShell Scripts](https://github.com/AmalSunny992/powershellscripts/blob/main/Using-PowerShell-For-Automation.md#automating-tasks-with-powershell-scripts)
 - [Scheduled Tasks in Windows](https://github.com/AmalSunny992/powershellscripts/blob/main/Using-PowerShell-For-Automation.md#scheduled-tasks-in-windows)
 
-### Day 23: [Practice Project: Windows Automation Script](https://github.com/AmalSunny992/powershellscripts/blob/main/README.md)
+### Day 23: [Hands On Projects: Windows Automation Script](https://github.com/AmalSunny992/powershellscripts/blob/main/README.md)
 - [Create a Script to Automate a Task on Windows](https://github.com/AmalSunny992/powershellscripts/tree/main/Scripts)
 
 ### Day 24: [Introduction to AWS](https://github.com/AmalSunny992/AWS_Basics/blob/main/README.md)
@@ -138,7 +138,7 @@ This repository is designed to help learn and practice DevOps concepts through h
 - [Introduction to AWS Lambda](https://github.com/AmalSunny992/AWS_Basics/blob/main/Lamda-Serverless.md#aws-lambda-and-serverless-computing)
 - [Creating and Deploying Lambda Functions](https://github.com/AmalSunny992/AWS_Basics/blob/main/Lamda-Serverless.md#creating-and-deploying-lambda-functions)
 
-### Day 30: [Practice Projects: AWS Hands-On Projects](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/README.md)
+### Day 30: [Hands On Projectss: AWS Hands-On Projects](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/README.md)
 - [Setting up a WordPress site using LightSail and a Load Balancer](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/Handson-AmazonLightsail.md)
 - [Hosting a static website on S3 with CloudFront and a custom domain using Route 53](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/Handson-S3_Static_Website.md)
 - [Creating and using Amazon Simple Notification Service (SNS)](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/Handson-SNS.md)
@@ -171,7 +171,7 @@ This repository is designed to help learn and practice DevOps concepts through h
 - [Deploying to Different Environments](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Deploying-with-Jenkins.md)
 - [Rollback Strategies](https://github.com/AmalSunny992/CI-CD-Jenkins/blob/main/Deploying-with-Jenkins.md#rollback-strategies)
 
-### Day 37: Practice Project: CI/CD Pipeline
+### Day 37: Hands On Projects: CI/CD Pipeline
 - [Jenkins-Maven-Nexus-Tomcat-CI/CD Pipeline](https://github.com/AmalSunny992/Jenkins-Hands-On-1/blob/main/README.md)
 - [Jenkins-Maven-Nexus-AWS S3-ElasticBeanstalk-CI/CD Pipeline](https://github.com/AmalSunny992/Jenkins-Hands-On-2/blob/main/README.md)
 
@@ -199,7 +199,7 @@ This repository is designed to help learn and practice DevOps concepts through h
 - [Modules in Terraform](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Advanced-Terraform.md)
 - [Managing Terraform State](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Advanced-Terraform.md#managing-terraform-state)
 
-### Day 44: [Practice Project: Deploy Infrastructure with Ansible and Terraform]
+### Day 44: [Hands On Projects: Deploy Infrastructure with Ansible and Terraform]
 - [Use Ansible and Terraform to Deploy a Web Application]
 
 ### Day 45: [Introduction to Docker](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/README.md)
@@ -226,7 +226,7 @@ This repository is designed to help learn and practice DevOps concepts through h
 - [Kubernetes Services and Ingress](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Kubernetes-Advanced.md)
 - [ConfigMaps and Secrets](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Kubernetes-Advanced.md#configmaps-and-secrets)
 
-### Day 51: [Practice Project: Deploy a Containerized Application on Kubernetes]
+### Day 51: [Hands On Projects: Deploy a Containerized Application on Kubernetes]
 - [Use Docker and Kubernetes to Deploy a Scalable Application]
 
 ## License
