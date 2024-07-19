@@ -136,7 +136,7 @@ This repository is designed to help learn and practice DevOps concepts through h
 
 ### Day 29: [AWS Lambda and Serverless Computing](https://github.com/AmalSunny992/AWS_Basics/blob/main/README.md)
 - [Introduction to AWS Lambda](https://github.com/AmalSunny992/AWS_Basics/blob/main/Lambda-Serverless.md#aws-lambda-and-serverless-computing)
-- [Creating and Deploying Lambda Functions](https://github.com/AmalSunny992/AWS_Basics/blob/main/Lamda-Serverless.md#creating-and-deploying-lambda-functions)
+- [Creating and Deploying Lambda Functions](https://github.com/AmalSunny992/AWS_Basics/blob/main/Lambda-Serverless.md#creating-and-deploying-lambda-functions)
 
 ### Day 30: [Hands On Projects: AWS Hands-On Projects](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/README.md)
 - [Setting up a WordPress site using LightSail and a Load Balancer](https://github.com/AmalSunny992/AWS-Hands-On/blob/main/Handson-AmazonLightsail.md)
