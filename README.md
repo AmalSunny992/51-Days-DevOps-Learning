@@ -2,7 +2,7 @@
 # DevOps-Challenges (In progress)
 
 Welcome to the 51 Days DevOps Learning Challenge repository! 
-This repository is designed to help learn and practice DevOps concepts through hands-on exercises, examples, and tutorials. 
+This repository is designed to help me learn and practice DevOps concepts through hands-on exercises, examples, and tutorials. 
 
 ## Table of Contents
 ### Day 1: [Introduction to DevOps](./Introduction%20to%20DevOps.md)
