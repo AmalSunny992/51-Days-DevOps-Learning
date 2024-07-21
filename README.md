@@ -200,7 +200,7 @@ This repository is designed to help learn and practice DevOps concepts through h
 - [Managing Terraform State](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Advanced-Terraform.md#managing-terraform-state)
 
 ### Day 44: [Hands On Projects: Deploy Infrastructure with Ansible and Terraform]
-- [Use Ansible and Terraform to Deploy a Web Application]
+- [Use Ansible and Terraform to Deploy a Web Application](https://github.com/AmalSunny992/Hands-On-Ansible-Terraform)
 
 ### Day 45: [Introduction to Docker](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/README.md)
 - [What is Docker?](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Docker-Intro.md)
