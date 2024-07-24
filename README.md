@@ -226,7 +226,8 @@ This repository is designed to help me learn and practice DevOps concepts throug
 - [Kubernetes Services and Ingress](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Kubernetes-Advanced.md)
 - [ConfigMaps and Secrets](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Kubernetes-Advanced.md#configmaps-and-secrets)
 
-### Day 51: [Hands On Projects: Deploy a Containerized Application on Kubernetes]
+### Day 51: [Hands On Projects: Deploy Applications Using Docker and Kubernetes]
+- [Deploy a Java App In Docker Hub](https://github.com/AmalSunny992/Hands-On-Docker-Weather-App)
 - [Use Docker and Kubernetes to Deploy a Scalable Application]
 
 ## License
