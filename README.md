@@ -1,7 +1,7 @@
 
-# DevOps-Challenges (In progress)
+# DevOps-Learning-Roadmap
 
-Welcome to the 51 Days DevOps Learning Challenge repository! 
+Welcome to the 51 Days DevOps Learning Roadmap repository! 
 This repository is designed to help me learn and practice DevOps concepts through hands-on exercises, examples, and tutorials. 
 
 ## Table of Contents
