@@ -228,7 +228,7 @@ This repository is designed to help me learn and practice DevOps concepts throug
 
 ### Day 51: [Hands On Projects: Deploy Applications Using Docker and Kubernetes]
 - [Deploy a Java App In Docker Hub](https://github.com/AmalSunny992/Hands-On-Docker-Weather-App)
-- [Use Docker and Kubernetes to Deploy a Scalable Application]
+- [Use Docker and Minikube to Deploy a Scalable Application](https://github.com/AmalSunny992/Handson-Kubernetes-Deploy-a-Scalable-Application)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
