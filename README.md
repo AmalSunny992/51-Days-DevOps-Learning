@@ -199,7 +199,7 @@ This repository is designed to help me learn and practice DevOps concepts throug
 - [Modules in Terraform](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Advanced-Terraform.md)
 - [Managing Terraform State](https://github.com/AmalSunny992/Infrastructure-as-a-Code/blob/main/Advanced-Terraform.md#managing-terraform-state)
 
-### Day 44: [Hands On Projects: Deploy Infrastructure with Ansible and Terraform]
+### Day 44: Hands On Projects: Deploy Infrastructure with Ansible and Terraform
 - [Use Ansible and Terraform to Deploy a Web Application](https://github.com/AmalSunny992/Hands-On-Ansible-Terraform)
 
 ### Day 45: [Introduction to Docker](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/README.md)
@@ -226,7 +226,7 @@ This repository is designed to help me learn and practice DevOps concepts throug
 - [Kubernetes Services and Ingress](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Kubernetes-Advanced.md)
 - [ConfigMaps and Secrets](https://github.com/AmalSunny992/Containerization-And-Orchestration/blob/main/Kubernetes-Advanced.md#configmaps-and-secrets)
 
-### Day 51: [Hands On Projects: Deploy Applications Using Docker and Kubernetes]
+### Day 51: Hands On Projects: Deploy Applications Using Docker and Kubernetes
 - [Deploy a Java App In Docker Hub](https://github.com/AmalSunny992/Hands-On-Docker-Weather-App)
 - [Use Docker and Minikube to Deploy a Scalable Application](https://github.com/AmalSunny992/Handson-Kubernetes-Deploy-a-Scalable-Application)
 
