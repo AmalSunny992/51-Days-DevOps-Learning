@@ -230,5 +230,8 @@ This repository is designed to help me learn and practice DevOps concepts throug
 - [Deploy a Java App In Docker Hub](https://github.com/AmalSunny992/Hands-On-Docker-Weather-App)
 - [Use Docker and Minikube to Deploy a Scalable Application](https://github.com/AmalSunny992/Handson-Kubernetes-Deploy-a-Scalable-Application)
 
+### Additional: Hands On Projects
+- [Ultimate CI-CD Jenkins pipeline which uses Maven, SonarQube, OWASP-Dependancy Check, Nexus, Docker, Trivy, Kubernetes ](https://github.com/AmalSunny992/Handson-ci-cd-jenkins-Deploy-to-K8S/blob/main/README.md)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
